@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qS/EgSq4OYu5TaRTza+Ntc+CIyYGdGpe3PXHy+pqHDTX3VgaYFcwoG+fzA450w0FgNYuCkVScjw3mxSV1OahRA==",
+  "success": true,
+  "projectFilePath": "D:\\IPCA\\1ºAno\\TRABALHO LP2\\Trabalho\\CamadaBL\\CamadaBL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoj\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\joaoj\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
